@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidWeek10AsyncRest</string>
+    <string name="imgdownloadwarn">Görüntü indiriliyor...</string>
+</resources>
