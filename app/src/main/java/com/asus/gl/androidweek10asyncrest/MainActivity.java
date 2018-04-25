@@ -17,8 +17,6 @@ import com.google.gson.JsonObject;
 import com.koushikdutta.async.future.FutureCallback;
 import com.koushikdutta.ion.Ion;
 
-import org.json.XML;
-
 import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
